@@ -28,7 +28,7 @@ Mentor-E-Schedule is an AI-powered productivity and strategic planning platform 
 - Zustand
 - Express.js
 
-### Agent Capabilities
+## Agent Capabilities
 
 - **Goal Understanding:** Interprets user objectives, tasks, deadlines, and constraints to understand what needs to be achieved.
 
